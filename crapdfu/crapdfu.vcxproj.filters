@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="USB">
+      <UniqueIdentifier>{c8eb4972-9d6e-48ae-bfed-fb59c27b1177}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="USBManager">
+      <UniqueIdentifier>{9352c9a6-0b0c-4aab-8330-02841206aee4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="USB.cpp">
+      <Filter>USB</Filter>
+    </ClCompile>
+    <ClCompile Include="USBManager.cpp">
+      <Filter>USBManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Entrypoint.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="USB.h">
+      <Filter>USB</Filter>
+    </ClInclude>
+    <ClInclude Include="USBManager.h">
+      <Filter>USBManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

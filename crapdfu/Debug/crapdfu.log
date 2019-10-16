@@ -1,0 +1,16 @@
+﻿  Entrypoint.cpp
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(740,47): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(740,47): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(765,79): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(765,79): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(1258,71): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+  USBManager.cpp
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(1258,71): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(740,47): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(740,47): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(765,79): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(765,79): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(1258,71): warning C4200:  nonstandard extension used: zero-sized array in struct/union
+  Generating Code...
+C:\Users\d\Downloads\libusb-1.0.23.tar\libusb-1.0.23\include\libusb-1.0\libusb.h(1258,71): message :  This member will be ignored by a defaulted constructor or copy/move assignment operator
+  crapdfu.vcxproj -> C:\Users\d\source\repos\crapdfu\Debug\crapdfu.exe
