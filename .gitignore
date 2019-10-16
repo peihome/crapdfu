@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#vs
+*.vs
+.vs
+Debug
+x64
+*.pdb
+*.ilk
